@@ -407,7 +407,7 @@ body {
 
 .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
     
-    WORKING ON THIS TO GET THE TEXT TO ALING WITH THE IMAGE
+    /*WORKING ON THIS TO GET THE TEXT TO ALING WITH THE IMAGE*/
     background: hsl(0, 0%, 100%);
     box-shadow: 50px 40px 115px rgba(0, 0, 0, 0.1);
 display: flex;
@@ -485,7 +485,7 @@ display: flex;
 
 @media screen and (min-width: 992px) {
     .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
-        padding: 50px;
+        padding: 20px;
     }
 }
 
@@ -836,7 +836,7 @@ display: flex;
 .site-footer {
     position: relative;
     padding: 40px 0 30px;
-    background: url(images/footer-cover.jpg) no-repeat;
+    background: url(images/marc-szeglat-556377-unsplash.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -976,7 +976,7 @@ display: flex;
 }
 
 .about-us .page-header {
-    background: url("images/about-us-header-background.jpg") no-repeat;
+    background: url("images/mel-elias-494644-unsplash.jpg") no-repeat;
     background-size: cover;
 }
 
